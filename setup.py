@@ -9,7 +9,7 @@ setup(
     url="https://github.com/svetozarov/AS_ComfyGPT",
     packages=find_packages(),
     install_requires=[
-        "openai>=0.27.0"
+        "openai>=1.00.0"
     ],
     classifiers=[
         "Programming Language :: Python :: 3",
